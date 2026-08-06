@@ -1,0 +1,4 @@
+streamlit
+langchain-groq
+duckduckgo-search
+starlette==0.36.3
